@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;800&display=swap');
+
+
+/* apt technologies css
+----------------------------------------*/ 
+
+body { font-family: inconsolata, Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace;"}
+
+p {font-family:inherit;
+  font-size: 16px;}
+
+p.font2 {font-family:  Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace;"}
+p.font3 {font-family:  "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace;"}
+p.font4 {font-family:   "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace;"}
+p.font5 {font-family:   "Lucida Sans Typewriter", Monaco, "Courier New", "monospace;"}
+
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+h7 { }
+
+h1.serif {font-family: }
+h1.sans {font-family: }
+h2.serif {font-family: }
+h2.sans {font-family: }
+h3.serif {font-family: }
+h3.sans {font-family: }
+h4.serif {font-family: }
+h4.sans {font-family: }
